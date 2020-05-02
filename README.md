@@ -1,2 +1,2 @@
-# vuejs-firebase
-Vue JS &amp; Firebase Production
+# Vue JS & Firebase
+Vue JS & Firebase Production
